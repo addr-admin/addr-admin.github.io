@@ -1,3 +1,19 @@
+Package: 0xcc.woodfairy.koi
+Version: 1.1.7
+Architecture: iphoneos-arm
+Maintainer: woodfairy & Litten
+Installed-Size: 1456
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.1.1)
+Filename: ./deb/Litten-Traurige/0xcc.woodfairy.koi_1.1.7_iphoneos-arm.deb
+Size: 1045290
+MD5sum: ee4011807371acb500da8d4341dca26c
+SHA1: ae7dfb468aa283d0cd5426bf9b39475822be3bb0
+SHA256: 13d4bf15302fe390a9820cb0acdd852964043c054e2ccf4f5fb272e7c26c0d93
+Section: Tweaks
+Description: Tint the 3D Touch background based on the App Icon's color
+Author: woodfairy & Litten
+Name: Koi 🐠
+
 Package: com.KJCracks.clutch2
 Version: 2.0.4
 Architecture: iphoneos-arm
@@ -12,6 +28,118 @@ Section: Utilities
 Homepage: https://github.com/KJCracks/Clutch
 Description: Fast cracking utility for iPhone, iPod and iPad
 Name: Clutch 2
+
+Package: com.bandarhl.BHTwitter
+Version: 2.9.6
+Architecture: iphoneos-arm
+Maintainer: BandarHelal
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./deb/BHTwitter/com.bandarhl.BHTwitter_2.9.6_iphoneos-arm.deb
+Size: 1154818
+MD5sum: a87a18312c84212eeae89639c1d88825
+SHA1: 3255c7ffd500b09f22daa27e2b56539b02facb93
+SHA256: a1eb770db01c516087a5a6319a9bf8bd33844c8c5e37864fcced70c9303c2366
+Section: Tweaks
+Priority: optional
+Description: Awesome tweak for Twitter
+Author: BandarHelal
+Name: BHTwitter
+
+Package: com.bandarhl.BHTwitter
+Version: 2.9.7
+Architecture: iphoneos-arm
+Maintainer: BandarHelal
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./deb/BHTwitter/com.bandarhl.BHTwitter_2.9.7_iphoneos-arm.deb
+Size: 1195962
+MD5sum: af312844abde484b15755c3868236f03
+SHA1: 8c718e48a7a86365e6a86332a7027ab0d86a2b57
+SHA256: e6b65d958f1d4266bcb128b8d3250601e39db5b05d79c670bb305a0f648f7d84
+Section: Tweaks
+Priority: optional
+Description: Awesome tweak for Twitter
+Author: BandarHelal
+Name: BHTwitter
+
+Package: com.bandarhl.BHTwitter
+Version: 2.9.8
+Architecture: iphoneos-arm
+Maintainer: BandarHelal
+Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common (>= 1.17)
+Filename: ./deb/BHTwitter/com.bandarhl.BHTwitter_2.9.8_iphoneos-arm.deb
+Size: 1089916
+MD5sum: e21575550bbefeb2540e6eacbb3e2824
+SHA1: 480be7fa97b05c5bb4cdd31552775f14b5efb818
+SHA256: a52b8dfd5a2e57a1f68bc804aaa1c3a987de4dd6cf11287e10ad6a9b2b929a99
+Section: Tweaks
+Priority: optional
+Description: Awesome tweak for Twitter
+Author: BandarHelal
+Name: BHTwitter
+
+Package: com.bandarhl.BHTwitter
+Version: 2.9.9
+Architecture: iphoneos-arm
+Maintainer: BandarHelal
+Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common (>= 1.17)
+Filename: ./deb/BHTwitter/com.bandarhl.BHTwitter_2.9.9_iphoneos-arm.deb
+Size: 1089440
+MD5sum: f9beeb9e4e843663496eba317ebd519b
+SHA1: c687084d6e1ab7ca723a4dd052b7e1a2c3084e10
+SHA256: 657e6a2f48f1c8792790dcd377ef06bbcdd52a1c8549ee84d2b422d1742f0719
+Section: Tweaks
+Priority: optional
+Description: Awesome tweak for Twitter
+Author: BandarHelal
+Name: BHTwitter
+
+Package: com.bandarhl.BHTwitter
+Version: 3.0
+Architecture: iphoneos-arm
+Maintainer: BandarHelal
+Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common (>= 1.17)
+Filename: ./deb/BHTwitter/com.bandarhl.BHTwitter_3.0_iphoneos-arm.deb
+Size: 1106492
+MD5sum: 57efc06a376179a73db755ca5693ffec
+SHA1: 6e2befdc63cbbc29888ea6b926326e375aec2ae3
+SHA256: a5c0690c0eede85f3d61589a5e7d494c9d022d85ac78a711071aeb95de2745db
+Section: Tweaks
+Priority: optional
+Description: Awesome tweak for Twitter
+Author: BandarHelal
+Name: BHTwitter
+
+Package: com.bandarhl.BHTwitter
+Version: 3.1
+Architecture: iphoneos-arm
+Maintainer: BandarHelal
+Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common (>= 1.17)
+Filename: ./deb/BHTwitter/com.bandarhl.BHTwitter_3.1_iphoneos-arm.deb
+Size: 1109466
+MD5sum: 6b385d9a021c9cde8bb76c3203677f5f
+SHA1: 4d03e65e732ca2b6d1617204ac9cbd051e3c3eb0
+SHA256: 657b1e3893f6add0ef0fab137ab8fa760bd74fa37ed020d69d459b0ce2d8341b
+Section: Tweaks
+Priority: optional
+Description: Awesome tweak for Twitter
+Author: BandarHelal
+Name: BHTwitter
+
+Package: com.bandarhl.BHTwitter
+Version: 3.2
+Architecture: iphoneos-arm
+Maintainer: BandarHelal
+Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common (>= 1.17)
+Filename: ./deb/BHTwitter/com.bandarhl.BHTwitter_3.2_iphoneos-arm.deb
+Size: 1112404
+MD5sum: 50e3676828ea34dce9d1f554d28db845
+SHA1: 36c243a06e101939c006327084d17d4eed813a76
+SHA256: 9c0577b9002be0db50ab1e7dfc663bfa45ba5f9e816a50c2d3708bf61d1cee65
+Section: Tweaks
+Priority: optional
+Description: Awesome tweak for Twitter
+Author: BandarHelal
+Name: BHTwitter
 
 Package: com.bateleurs.noeditmenudelay
 Version: 1.0-6k
@@ -1921,6 +2049,165 @@ Depiction: http://beta.unlimapps.com/depiction/com.unlimapps.ytpp/
 Dev: i4iphones
 Name: YouTube ++
 
+Package: dev.traurige.batterybuddy
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: Traurige
+Installed-Size: 196
+Depends: mobilesubstrate
+Conflicts: love.litten.batterybuddy
+Filename: ./deb/Litten-Traurige/dev.traurige.batterybuddy_1.0.3_iphoneos-arm.deb
+Size: 11462
+MD5sum: c8bef721f4a949f0e34b1df18889e4ff
+SHA1: b98e567e10cb6bae0a9f0b30327b3a6626487a64
+SHA256: ded76b0df94c9e25ee12c4d434b9af2ef95c467b235efe630a0a177a62c9911d
+Section: Tweaks
+Description: Battery indicator, but cute
+Author: Traurige & neilsardesai
+Name: BatteryBuddy ⚡️
+
+Package: dev.traurige.batterybuddy
+Version: 1.1
+Architecture: iphoneos-arm
+Maintainer: Traurige
+Installed-Size: 1208
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Conflicts: love.litten.batterybuddy
+Filename: ./deb/Litten-Traurige/dev.traurige.batterybuddy_1.1_iphoneos-arm.deb
+Size: 847622
+MD5sum: bbcfb8b7893333d0dbacd87bad463e9d
+SHA1: 23a1af16e61578d0dc989ce5666d6d07a3962333
+SHA256: d16502275cb2958009e789daf9fef7ad09b3fda56ba2a29186d540bee2851c54
+Section: Tweaks
+Description: Battery indicator, but cute
+Author: Traurige & neilsardesai
+Name: BatteryBuddy
+
+Package: dev.traurige.libkitten
+Version: 1.3.3
+Architecture: appletvos-arm64
+Maintainer: Traurige
+Installed-Size: 172
+Depends: firmware (>= 12.0)
+Conflicts: love.litten.libkitten
+Filename: ./deb/Litten-Traurige/dev.traurige.libkitten_1.3.3_appletvos-arm64.deb
+Size: 8962
+MD5sum: dae4c229bd658a7ef0aa021ad983d3fd
+SHA1: aeaf3bf5c90ca4a8382fcf0f3f8f24a613146a25
+SHA256: cb66caa16be6114834478f01107ad442ed3c2b2aedea0371f53cad1a0a89423e
+Section: System
+Description: Collection of image and color calculations
+Tag: role::developer
+Author: Traurige
+Name: libKitten
+
+Package: dev.traurige.libkitten
+Version: 1.3.3
+Architecture: iphoneos-arm
+Maintainer: Traurige
+Installed-Size: 172
+Depends: firmware (>= 12.0)
+Conflicts: love.litten.libkitten
+Filename: ./deb/Litten-Traurige/dev.traurige.libkitten_1.3.3_iphoneos-arm.deb
+Size: 8966
+MD5sum: 3ae2918f029b9c99c8000970811f32bc
+SHA1: 9e9c8c2be5b6584c8d23603bfe4c69ca1bf09f6b
+SHA256: f269c42fcb7ddfd6a837ae58e1635574e947ae982fe8564742606b8d4dcb937b
+Section: System
+Description: Collection of image and color calculations
+Tag: role::developer
+Author: Traurige
+Name: libKitten
+
+Package: dev.traurige.libkitten
+Version: 1.3.4
+Architecture: appletvos-arm64
+Maintainer: Traurige
+Installed-Size: 172
+Depends: firmware (>= 12.0)
+Conflicts: love.litten.libkitten
+Provides: love.litten.libkitten (=1.3.3)
+Filename: ./deb/Litten-Traurige/dev.traurige.libkitten_1.3.4_appletvos-arm64.deb
+Size: 8988
+MD5sum: 4623bf69f48b4ecc2c191364192f7751
+SHA1: 64716cfed0dd6f1e6bde1f75795bd77fe9831ee7
+SHA256: cfba38e31ed29830023e5a88c0f00a0a466c3cfe647a9306b35be197f2f6436a
+Section: System
+Description: Collection of image and color calculations
+Tag: role::developer
+Author: Traurige
+Name: libKitten
+
+Package: dev.traurige.libkitten
+Version: 1.3.4
+Architecture: iphoneos-arm
+Maintainer: Traurige
+Installed-Size: 172
+Depends: firmware (>= 12.0)
+Conflicts: love.litten.libkitten
+Provides: love.litten.libkitten (=1.3.3)
+Filename: ./deb/Litten-Traurige/dev.traurige.libkitten_1.3.4_iphoneos-arm.deb
+Size: 8982
+MD5sum: 8f2e816faa41cb2328d5dfb293314b9c
+SHA1: f3f4328db618beee6f133c46ee71907142fb31a8
+SHA256: b423cb9c73cb58aa5a4f40bede4964e02fd1809b237a092636d0d386cad83978
+Section: System
+Description: Collection of image and color calculations
+Tag: role::developer
+Author: Traurige
+Name: libKitten
+
+Package: dev.traurige.liddell
+Version: 1.2.4
+Architecture: iphoneos-arm
+Maintainer: Traurige
+Installed-Size: 1080
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0), dev.traurige.libkitten (>= 1.3.3), com.mrgcgamer.libgcuniversal
+Conflicts: love.litten.liddell
+Filename: ./deb/Litten-Traurige/dev.traurige.liddell_1.2.4_iphoneos-arm.deb
+Size: 517180
+MD5sum: 073db4b8d695f63c54ccc9981fd7426d
+SHA1: 2048ff01139ad5110382797fa25943619fcfae3e
+SHA256: 2c7ed5cb40f5c4c05ebf75cffd5ff5c13e9e594b57e2c53088c547a22f871167
+Section: Tweaks
+Description: Make your notification banners smaller and add some color to them
+Author: Traurige
+Name: Liddell
+
+Package: dev.traurige.ve
+Version: 1.1.4
+Architecture: iphoneos-arm
+Maintainer: Traurige
+Installed-Size: 1900
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), ws.hbang.common (>= 1.14)
+Conflicts: love.litten.ve
+Filename: ./deb/Litten-Traurige/dev.traurige.ve_1.1.4_iphoneos-arm.deb
+Size: 1134468
+MD5sum: cb5bf7743a9a7be2d1444a537bb0953e
+SHA1: 2494f0560c8fa5e7f42e4c143e7a1ba5e9470721
+SHA256: 1249a357998caf88e7ad0e992e48279660361f47b05863fda85353bc6b8eb354
+Section: Tweaks
+Description: Natively integrated notification logger
+Author: Traurige & 74k1_
+Name: Vē 💌
+
+Package: dev.traurige.ve
+Version: 1.1.5
+Architecture: iphoneos-arm
+Maintainer: Traurige
+Installed-Size: 1900
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), ws.hbang.common (>= 1.14)
+Conflicts: love.litten.ve
+Filename: ./deb/Litten-Traurige/dev.traurige.ve_1.1.5_iphoneos-arm.deb
+Size: 1134168
+MD5sum: 2f99239162782c2566dfcc9a007f7391
+SHA1: a4ddd0ddc01f2c310fa3340fa404512284b32f23
+SHA256: 2742bd26793fd0fe7215e48ba980c09192173aa3f9ade0e05d758dde37165674
+Section: Tweaks
+Description: Natively integrated notification logger
+Author: Traurige & 74k1_
+Name: Vē 💌
+
 Package: io.ominousness.ass
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -2229,6 +2516,298 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cctogglesq
 Dev: devbug
 Name: AppSwitcher QLPanel
 Sponsor: thebigboss.org <http://thebigboss.org>
+
+Package: love.litten.amonglock
+Version: 1.1.6
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 23844
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./deb/Litten-Traurige/love.litten.amonglock_1.1.6_iphoneos-arm.deb
+Size: 20861342
+MD5sum: dcf936a94bcf48b66e055e2ad33bb278
+SHA1: e5458cb3b140f03b23e4ba436599b0df8d35a29a
+SHA256: cf82c08b1521cc543073d515af890b8b458ce482c2cad1ee86c49aa28faa518a
+Section: Tweaks
+Description: You were not the owner of this device
+Author: Litten & BigIlel
+Depiction: https://repo.litten.love/depictions/AmongLock/index.html
+Icon: https://repo.litten.love/depictions/AmongLock/assets/icon.png
+Name: AmongLock 👻
+Sileodepiction: https://repo.litten.love/depictions/AmongLock/index.json
+
+Package: love.litten.ballet
+Version: 1.0.1
+Architecture: appletvos-arm64
+Maintainer: Litten
+Installed-Size: 576
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0)
+Filename: ./deb/Litten-Traurige/love.litten.ballet_1.0.1_appletvos-arm64.deb
+Size: 247320
+MD5sum: 2788a3d92b09e05ed26cecf297c775c0
+SHA1: ec11dcf5f2c8d727dd33a883759b73ad6116832e
+SHA256: 25ae3ee0fbaf8ad0604e5670fec96e467b6749676db6559fa270d917b1a4055c
+Section: Tweaks
+Description: Wallpapers for your Apple TV
+Author: Litten
+Depiction: https://repo.litten.love/tv/depictions/Ballet/index.json
+Icon: https://repo.litten.love/tv/depictions/Ballet/assets/icon.png
+Name: Ballet
+
+Package: love.litten.crystal
+Version: 1.4.1
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1476
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./deb/Litten-Traurige/love.litten.crystal_1.4.1_iphoneos-arm.deb
+Size: 1060726
+MD5sum: 648f8b93b5dc3605a8fccacd7159b06b
+SHA1: 9c228a484778998ad9b888104d5226fe6e1913af
+SHA256: 36134111fab35d68b229322be4de9812d59e9cb4bc8318bdb7610c6545943a8c
+Section: Tweaks
+Description: Headphone listening mode automations
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Crystal/index.html
+Icon: https://repo.litten.love/depictions/Crystal/assets/icon.png
+Name: Crystal 💎
+Sileodepiction: https://repo.litten.love/depictions/Crystal/index.json
+
+Package: love.litten.dejavu
+Version: 1.3.2
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 2216
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./deb/Litten-Traurige/love.litten.dejavu_1.3.2_iphoneos-arm.deb
+Size: 1761466
+MD5sum: 137fa7284b052d53e1d308fd749e89a2
+SHA1: 9600c86bde017e8b6da11235fd338387ca73cf73
+SHA256: 6293d534a28eb989b78ba21ed788440bea46aabfea11c14da7dd39b4fd0eb3ba
+Section: Tweaks
+Description: I've seen that before
+Author: Litten
+Depiction: https://repo.litten.love/depictions/DejaVu/index.html
+Icon: https://repo.litten.love/depictions/DejaVu/assets/icon.png
+Name: Déjà Vu 🕰
+Sileodepiction: https://repo.litten.love/depictions/DejaVu/index.json
+
+Package: love.litten.diary
+Version: 1.2.2
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 5800
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, com.peterdev.libpddokdo, love.litten.libkitten
+Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi, se.nosskirneh.properlockgestures
+Filename: ./deb/Litten-Traurige/love.litten.diary_1.2.2_iphoneos-arm.deb
+Size: 2663444
+MD5sum: da8e87b06352fe8afbfa6421e19d0844
+SHA1: fe998f6d4ba1ebffdf7dbcd0721242b3a619c4a4
+SHA256: 133ae7176a09fc7b6f21b6dce053081e4a66fd3a3dad671af2fa74f3b573785f
+Section: Tweaks
+Description: Dear diary..
+Author: Litten
+Name: Diary 📖
+
+Package: love.litten.dress
+Version: 2.6
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1552
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
+Filename: ./deb/Litten-Traurige/love.litten.dress_2.6_iphoneos-arm.deb
+Size: 997964
+MD5sum: 83705907fe809d23a04eecb1a98f066b
+SHA1: 1a2258372692582b20d1a80f55442597cfa543f4
+SHA256: 20e01e44a9b2e4aa07feb76dfdc287ad061f6bc0e2fc04a8a645b67c48613158
+Section: Tweaks
+Description: Dress up your lock screen
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Dress/index.html
+Icon: https://repo.litten.love/depictions/Dress/assets/icon.png
+Name: Dress 👗
+Sileodepiction: https://repo.litten.love/depictions/Dress/index.json
+
+Package: love.litten.eneko
+Version: 1.1.2
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1428
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
+Filename: ./deb/Litten-Traurige/love.litten.eneko_1.1.2_iphoneos-arm.deb
+Size: 992966
+MD5sum: 6d8de12b35e0fb8881ca5ba91a6fad73
+SHA1: 3a6a4e18f70368ba05a61719d6af7085159f0e5b
+SHA256: 2cdb60266d256087eb4cfa9250a81cf77ec39db9e223a394a969e626cb05aa4e
+Section: Tweaks
+Description: Set a video as your wallpaper
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Eneko/index.html
+Icon: https://repo.litten.love/depictions/Eneko/assets/icon.png
+Name: Eneko 🎬
+Sileodepiction: https://repo.litten.love/depictions/Eneko/index.json
+
+Package: love.litten.heartlines
+Version: 1.5.4
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1760
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0), love.litten.libkitten (>= 1.1.1), com.peterdev.libpddokdo, me.conorthedev.libappearancecell, com.mrgcgamer.libgcuniversal
+Filename: ./deb/Litten-Traurige/love.litten.heartlines_1.5.4_iphoneos-arm.deb
+Size: 1174570
+MD5sum: 38431ef01498fc5a81121381aa7e84f1
+SHA1: fc7c0decddb7a548724651f3f4b42acd13dc870f
+SHA256: 3ee2d61d2d69938f1caa485e8375c4150b88b8ce16722526d0bf0f0fc7183b87
+Section: Tweaks
+Description: I know there's trembling in your heartlines
+Author: Litten
+Name: Heartlines 🌺
+
+Package: love.litten.juin
+Version: 1.1.3
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1468
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./deb/Litten-Traurige/love.litten.juin_1.1.3_iphoneos-arm.deb
+Size: 1007342
+MD5sum: 5dcb5bbaa2ffafb2a87bbf69822e730c
+SHA1: 1e49676e21b784dd221008a833a7dc194d7fefcc
+SHA256: 3a1d047b97d60cea334d91746b32093200361c514ce71b571dffca3714d85d8f
+Section: Tweaks
+Description: Spotify inspired lock screen player
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Juin/index.html
+Icon: https://repo.litten.love/depictions/Juin/assets/icon.png
+Name: Juin 🏖
+Sileodepiction: https://repo.litten.love/depictions/Juin/index.json
+
+Package: love.litten.lisa
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1304
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./deb/Litten-Traurige/love.litten.lisa_1.5.1_iphoneos-arm.deb
+Size: 808746
+MD5sum: abdcdd4d4c20b0359b5e079ead0d0dbd
+SHA1: d032e503f40ca06f185705d361c1df37875caabe
+SHA256: ad7adceb40efbb4aa1eed054918941f88834588df7eb7ba67fa2838818c53897
+Section: Tweaks
+Description: Full incoming OLED notifications
+Author: Litten & Esquilli
+Depiction: https://repo.litten.love/depictions/Lisa/index.html
+Icon: https://repo.litten.love/depictions/Lisa/assets/icon.png
+Name: Lisa 💅🏻
+Sileodepiction: https://repo.litten.love/depictions/Lisa/index.json
+
+Package: love.litten.lune
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1444
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13), ws.hbang.common (>= 1.14), love.litten.libkitten (>= 1.1.1), com.mrgcgamer.libgcuniversal
+Filename: ./deb/Litten-Traurige/love.litten.lune_1.5.1_iphoneos-arm.deb
+Size: 977066
+MD5sum: fd08b204b2b829b2e334b0074585b0bf
+SHA1: 3c6ad5a0e543882695c5c958399acd69baf3f6d5
+SHA256: fc6091b7177b8e3e1cf4350077796e17fad649ecc796ba0d2d8acfcf237e2181
+Section: Tweaks
+Description: Twinkle twinkle little star
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Lune/index.html
+Icon: https://repo.litten.love/depictions/Lune/assets/icon.png
+Name: Lune 🌙
+Sileodepiction: https://repo.litten.love/depictions/Lune/index.json
+
+Package: love.litten.nita
+Version: 1.6
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1312
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.peterdev.libpddokdo
+Filename: ./deb/Litten-Traurige/love.litten.nita_1.6_iphoneos-arm.deb
+Size: 895126
+MD5sum: e5ef19e7b8e36305751a080d32c3eb06
+SHA1: 4aab3d09d21f29972c69c9f87ab5f796319431ff
+SHA256: 30019d01c801fdbd0233a9ac953678453e3567683487298657385883220bb04a
+Section: Tweaks
+Description: Ensoleillé
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Nita/index.html
+Icon: https://repo.litten.love/depictions/Nita/assets/icon.png
+Name: Nita ☀️
+Sileodepiction: https://repo.litten.love/depictions/Nita/index.json
+
+Package: love.litten.rose
+Version: 1.0.9
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 2672
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0)
+Filename: ./deb/Litten-Traurige/love.litten.rose_1.0.9_iphoneos-arm.deb
+Size: 434464
+MD5sum: 53f0634c0c38a8856e0d7880a1a2ff25
+SHA1: 9e83655867c8274b23555b700dd4868ea57acd80
+SHA256: 00083f13af392740d91ea273615782959b224eb3b3118c55ebd0bb949ba7afbf
+Section: Tweaks
+Description: Getting peeped by a rose doesn't feel that good, it's time to change that
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Rose/index.html
+Icon: https://repo.litten.love/depictions/Rose/assets/icon.png
+Name: Rose 🌹
+Sileodepiction: https://repo.litten.love/depictions/Rose/index.json
+
+Package: love.litten.safariwallpaper
+Version: 1.5.1
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1368
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, love.litten.libkitten
+Filename: ./deb/Litten-Traurige/love.litten.safariwallpaper_1.5.1_iphoneos-arm.deb
+Size: 945480
+MD5sum: 4610e58ba2e2809932846df3e0b3966a
+SHA1: 2ff8365210857b8e60f33f608ac54d419847e19c
+SHA256: fc13ac2c007a07b3d913de26d5b7047e70a921d23b9129511c69cc22d212d96e
+Section: Tweaks
+Description: Personalize Safari with a wallpaper
+Author: Litten
+Name: SafariWallpaper 🌇
+
+Package: love.litten.violet
+Version: 1.7.1
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1812
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 14.0)
+Filename: ./deb/Litten-Traurige/love.litten.violet_1.7.1_iphoneos-arm.deb
+Size: 1013910
+MD5sum: f2aa19ef86df018d5bddb85be217ef93
+SHA1: 18a3edcdb28fa195975808deeb67f7b6e2afe65a
+SHA256: 0fb146e81e99ae996e867b96cc682164044dee501a3079b6fcae477d0c46211b
+Section: Tweaks
+Description: Sweet addition to your wallpaper
+Author: Litten
+Name: Violet 🎀
+
+Package: love.litten.yuna
+Version: 1.0.2
+Architecture: iphoneos-arm
+Maintainer: Litten
+Installed-Size: 1496
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.peterdev.libpddokdo, com.mrgcgamer.libgcuniversal
+Filename: ./deb/Litten-Traurige/love.litten.yuna_1.0.2_iphoneos-arm.deb
+Size: 990454
+MD5sum: d0e5f1c2ca8d0c851db94e2582af568e
+SHA1: 79bc74d0bd63a4f97d96f0cc4c8c09acdcd15cbb
+SHA256: d89a3b2ffbcf1dfc5c0d47a327832e86c6381790b8c5c9d8b1050a13a8c56cc0
+Section: Tweaks
+Description: Strawberry cupcakes
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Yuna/index.html
+Icon: https://repo.litten.love/depictions/Yuna/assets/icon.png
+Name: Yuna 🍃
+Sileodepiction: https://repo.litten.love/depictions/Yuna/index.json
 
 Package: me.aesthyrica.twttr
 Version: 1.0.0
