@@ -173,6 +173,22 @@ Description: Awesome tweak for Twitter
 Author: BandarHelal
 Name: BHTwitter
 
+Package: com.bandarhl.BHTwitter
+Version: 3.5
+Architecture: iphoneos-arm
+Maintainer: BandarHelal
+Depends: firmware (>= 13.0), mobilesubstrate, ws.hbang.common (>= 1.17)
+Filename: ./deb/BHTwitter/com.bandarhl.BHTwitter_3.5_iphoneos-arm.deb
+Size: 1159812
+MD5sum: 0e6ee8ed388753635e73d2fc3629f9f6
+SHA1: 1290fde34a029200f53977373567086bddd3deee
+SHA256: 0f4a73be3522fbb8d9de50fbef5bc1e6d909f426187a393c7e140a233ebd373c
+Section: Tweaks
+Priority: optional
+Description: Awesome tweak for Twitter
+Author: BandarHelal
+Name: BHTwitter
+
 Package: com.bateleurs.noeditmenudelay
 Version: 1.0-6k
 Architecture: iphoneos-arm
