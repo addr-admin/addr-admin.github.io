@@ -386,6 +386,48 @@ Dev: bateleurs
 Name: NoEditMenuDelay
 Sponsor: thebigboss.org <http://thebigboss.org>
 
+Package: com.bid3v.electrode
+Version: 1.0.3
+Architecture: iphoneos-arm
+Maintainer: biD3V
+Installed-Size: 432
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./deb/com.bid3v.electrode_1.0.3_iphoneos-arm.deb
+Size: 41082
+MD5sum: 599c5a17fc75b96aa6681f5cc6593d48
+SHA1: bf876b44332d8af35a85403ab5cc7a75cc279c15
+SHA256: 22d09d0d77ad882e402b7de80631ed1564b358fd60ec3b72da6d5a6c5b8aec00
+Section: Tweaks
+Description: Charging and low power mode toasts!
+Author: biD3V
+Depiction: https://bid3v.github.io/repo/depictions/electrode.html
+Icon: https://bid3v.github.io/repo/icons/Electrode.png
+Name: Electrode
+Sileodepiction: https://bid3v.github.io/repo/depictions/sileo/electrode.json
+
+Package: com.cemck.killx
+Version: 1.2
+Architecture: iphoneos-arm
+Maintainer: cemck <cem_ck@icloud.com>
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader
+Conflicts: com.cemck.killx-pro
+Filename: ./deb/com.cemck.killx_1.2_iphoneos-arm.deb
+Size: 79876
+MD5sum: 2c6eaa2a0683b23836a9ffbd3bcdcbd8
+SHA1: 780e7064dd61df5d58aecfb8496dccd04731795f
+SHA256: ed0f16ea315db186463af0cc9e35c62672e0b2b39bb32a5e04a2b3a99daa655e
+Section: Tweaks
+Homepage: https://cemck.github.io/repo
+Description: One swipe to kill them all!
+Tag: role::enduser
+Author: cemck <cem_ck@icloud.com>
+Depiction: https://cemck.github.io/repo/depiction/web/com.cemck.killx.html
+Icon: https://cemck.github.io/repo/assets/com.cemck.killx/icon.png
+Moderndepiction: https://cemck.github.io/repo/depiction/native/com.cemck.killx.json
+Name: KillX
+Sileodepiction: https://cemck.github.io/repo/depiction/native/com.cemck.killx.json
+Someotherentrytocontrol: True
+
 Package: com.chilaxan.cuboid
 Version: 2.0.0
 Architecture: iphoneos-arm
