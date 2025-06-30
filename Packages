@@ -498,6 +498,26 @@ Description: EZBatteries displays your iPhone battery percentage and the battery
 Author: Easy-Z & Karimo299
 Name: EZBatteries
 
+Package: com.exile90.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm
+Maintainer: Ivano Bilenchi <support@ib-soft.net>
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: ./deb/com.exile90.icleanerpro_7.10.0_iphoneos-arm.deb
+Size: 2450460
+MD5sum: 830ebd462d173a9211f5f7c41ce64d1a
+SHA1: 437f5c5097cdab433698b11dab81c3cb8fc82917
+SHA256: 99c90c0f4629d47af1c52772f374eb74828f7cdafc469fcc42af0eea6d417c66
+Section: Utilities
+Homepage: http://ib-soft.net/icleaner
+Description: The first real iOS system cleanup and management utility
+Author: Ivano Bilenchi <support@ib-soft.net>
+Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
+Icon: file:///Applications/iCleaner.app/Icon.png
+Name: iCleaner Pro
+
 Package: com.hackyouriphone.cloaky
 Version: 3.1.2k
 Architecture: iphoneos-arm
@@ -2662,6 +2682,22 @@ Author: Revulate <revulate1@gmail.com>
 Icon: file:///Library/PreferenceBundles/Serene.bundle/icon@3x.png
 Name: Serene
 
+Package: com.rpgfarm.a-bypass
+Version: 1.5.8
+Architecture: iphoneos-arm
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 960
+Depends: mobilesubstrate, com.muirey03.libmryipc, com.rpgfarm.libaptoast, preferenceloader
+Filename: ./deb/com.rpgfarm.a-bypass_1.5.8_iphoneos-arm.deb
+Size: 142878
+MD5sum: 16f6a08dd2c42829b46c11e05e2abbf2
+SHA1: ab677c736b80efca6d8bfcb57cd42a49fed43893
+SHA256: 3faf6546a2cb8aeeeffd79811a50cde73130a05034df2fcc5c793612cb2b1d99
+Section: Tweaks
+Description: Super Jailbreak detection bypass!
+Author: Baw Appie <pp121324@gmail.com>
+Name: A-Bypass
+
 Package: com.satvikb.imagecorrect
 Version: 0.1
 Architecture: iphoneos-arm
@@ -3291,6 +3327,54 @@ Section: Tweaks
 Description: Natively integrated notification logger
 Author: Traurige & 74k1_
 Name: Vē 💌
+
+Package: in.net.mario.tweak.fixentitlement
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Mario Cheung
+Installed-Size: 312
+Depends: mobilesubstrate
+Filename: ./deb/in.net.mario.tweak.fixentitlement_0.0.3_iphoneos-arm.deb
+Size: 6726
+MD5sum: 494734bf11758463329f828d78c891f8
+SHA1: 2a4dd8a01e6bf81f392b96bd012645e6b992a217
+SHA256: 76240598f870cfdfda11b63b886b3e06e138a33dbd403402fbc05fad739c3c7d
+Section: Tweaks
+Description: Fix entitlement check for gamed & nehelper
+Author: Mario Cheung
+Name: EntitlementFix
+
+Package: in.net.mario.tweak.noforcedentry
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Mario Cheung
+Installed-Size: 152
+Depends: firmware (<< 14.8), mobilesubstrate
+Filename: ./deb/in.net.mario.tweak.noforcedentry_0.0.2_iphoneos-arm.deb
+Size: 3406
+MD5sum: cdcaf1d84783317001538d1c91cf6092
+SHA1: b1754227c98eb414b98b3180cec0a146137a312c
+SHA256: 4421b098f0a3c47fca5d55177fd92fdfc0219c7d6c221d04daf4df77fd6ae596
+Section: Tweaks
+Description: Hopefully avoid Pegasus spyware's zero-click iOS exploit "FORCEDENTRY"
+Author: Mario Cheung
+Name: FORCEDEXIT
+
+Package: in.net.mario.tweak.wfloggerfix
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Mario Cheung
+Installed-Size: 216
+Depends: firmware (>= 13.0), firmware (<< 14.5), mobilesubstrate
+Filename: ./deb/in.net.mario.tweak.wfloggerfix_0.0.3_iphoneos-arm.deb
+Size: 6084
+MD5sum: ee1dd7ea0f5fa87cfea47758ca015576
+SHA1: 6701158d10e8d70381e8cede8d5704590eea87b4
+SHA256: 0abbe9e7fe94e270266b9018eee0070a3fbadca2d8a38f8d5389d175e1551279
+Section: Tweaks
+Description: Fix for WiFi name bug found in June 2021
+Author: Mario Cheung
+Name: WiFiNameBugFix
 
 Package: io.ominousness.ass
 Version: 1.0.0
