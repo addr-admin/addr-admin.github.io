@@ -3211,6 +3211,63 @@ Depiction: http://beta.unlimapps.com/depiction/com.unlimapps.ytpp/
 Dev: i4iphones
 Name: YouTube ++
 
+Package: com.xyaman.cucu
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Xyaman
+Installed-Size: 376
+Depends: mobilesubstrate, preferenceloader, com.xyaman.libkuro, com.mrgcgamer.libgcuniversal, ws.hbang.common (>= 1.17)
+Filename: ./deb/com.xyaman.cucu_0.0.3_iphoneos-arm.deb
+Size: 24418
+MD5sum: 2136fe0fc73a87366d9d779c32c0511f
+SHA1: d00f06ccc2b0eb014d4fb9a4622044522e198f36
+SHA256: 352a089b128e37701953acef32cf61edda2c80d6f2d3093703e6b52556a667b9
+Section: Tweaks
+Description: Customize your notifications banners
+Author: Xyaman
+Depiction: https://repo.xyaman.xyz/depictions/index.html?p=cucu
+Icon: https://repo.xyaman.xyz/depictions/cucu/assets/icon.png
+Name: Cucu
+Sileodepiction: https://repo.xyaman.xyz/depictions/cucu/depiction.json
+
+Package: com.xyaman.libkuro
+Version: 0.0.3
+Architecture: iphoneos-arm
+Maintainer: Diego Barría
+Installed-Size: 172
+Filename: ./deb/com.xyaman.libkuro_0.0.3_iphoneos-arm.deb
+Size: 6430
+MD5sum: eea6beaa90df44b1f59bca2bbec0238d
+SHA1: 5fa81a8090a16d9fdaeb761abb49350876a4eeb2
+SHA256: 11933b238efb69f77ce3976023a397ec0867910b1fbd124d09040ca8dc3060ae
+Section: System
+Description: Very simple image library.
+Tag: role::developer
+Author: Diego Barría
+Depiction: https://repo.xyaman.xyz/depictions/index.html?p=libkuro
+Icon: https://repo.xyaman.xyz/depictions/libkuro/assets/icon.png
+Name: libKuro
+Sileodepiction: https://repo.xyaman.xyz/depictions/libkuro/depiction.json
+
+Package: com.xyaman.tako
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: Xyaman
+Installed-Size: 516
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.16), com.xyaman.libkuro, com.mrgcgamer.libgcuniversal
+Filename: ./deb/com.xyaman.tako_0.0.2_iphoneos-arm.deb
+Size: 62664
+MD5sum: 503be681ce0d681d64ee59f771c1bdf9
+SHA1: cda7e4cecb8f1bc51029d547b3d7e19f5f7c9ec2
+SHA256: bb20019fa7ded32c45db9f166ad4ae1713df476bc78fae683cf1ea54023ea574
+Section: Tweaks
+Description: Notification priority hub tweak
+Author: Xyaman
+Depiction: https://repo.xyaman.xyz/depictions/index.html?p=tako
+Icon: https://repo.xyaman.xyz/depictions/tako/assets/icon.png
+Name: Tako
+Sileodepiction: https://repo.xyaman.xyz/depictions/tako/depiction.json
+
 Package: dev.traurige.batterybuddy
 Version: 1.0.3
 Architecture: iphoneos-arm
